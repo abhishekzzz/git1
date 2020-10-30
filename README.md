@@ -1,4 +1,3 @@
 # git1
 git 
-test
-update remote
+test repo for commit 
